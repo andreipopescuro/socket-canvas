@@ -25,10 +25,3 @@ function setup() {
     ellipse(data.x, data.y, 20, 20);
   });
 }
-
-function draw() {
-  //   noStroke();
-  //   fill(198);
-  //   ellipse(mouseX, mouseY, 50, 50);
-  // Nothing
-}
